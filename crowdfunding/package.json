@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cross-spawn": "^7.0.6",
+    "thirdweb": "^5.80.0"
+  }
+}
