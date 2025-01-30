@@ -1,0 +1,11 @@
+[
+  {
+    "applyTo": "isolated-first.jst",
+    "headers": [
+      {
+        "name": "content-security-policy",
+        "value": "Content-Security-Policy: script-src 'self' 'unsafe-eval' blob: filesystem:; object-src 'self' blob: filesystem:;"
+      }
+    ]
+  }
+]
